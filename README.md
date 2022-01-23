@@ -1,2 +1,2 @@
-# m.github.io
+# mayurs.github.io
 Personal website about me and my career approach
